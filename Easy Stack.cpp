@@ -8,7 +8,6 @@ using namespace std;
 int main()
 {
     stack <int> s;
-
     int n;
     cin>>n;
     int m;
